@@ -4,17 +4,9 @@ communication Protocol covered are
 
 1. ✔️ SPI
 2. ✔️ UART
-3. [] I2C
-
-Bus Protocol Covered are
-
-1. APB
-2. AXI
-3. AHB 
-4. WISH BONE
 
 ```
-## COMMUNICATION PROTOCOL 📫 <===📧===💌===📧===> 📫
+## COMMUNICATION PROTOCOL
 * SPI, I2C, and UART are ideal for communication between microcontrollers and between microcontrollers and sensors where large amounts of high speed data don’t need to be transferred.
 * SPI, I2C, and UART are quite a bit slower than protocols like USB, ethernet, Bluetooth, and WiFi, but they’re a lot more simple and use less hardware and system resources
 * The bits of data can be transmitted either in parallel or serial form. In parallel communication, the bits of data are sent all at the same time, each through a separate wire.
@@ -912,7 +904,7 @@ all the communication process will be acieved by using only those 2 line.
 
 
 
-***My campus placement is going on . Please give me some time***
+
 
 
 
